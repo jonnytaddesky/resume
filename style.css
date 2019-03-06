@@ -118,4 +118,15 @@ img {
 	height: 879px;
 }
 
-.resume
+.skills-ul-first {
+	display: flex;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.skills-li {
+	list-style: none;
+	margin: 0 auto;
+	font-size: 35px;
+	font-family: "fonts/Intro.ttf";
+}
