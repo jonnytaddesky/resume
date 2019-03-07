@@ -36,7 +36,7 @@ body {
 	width: 100%;
 	text-align: center;
     font-family: 'Patua One', cursive;
-	margin: 0;
+	margin: 0 auto;
 	margin: 396.5px 0 396.5px 0;
 	color: white;
 }
@@ -129,4 +129,7 @@ img {
 	margin: 0 auto;
 	font-size: 35px;
 	font-family: "fonts/Intro.ttf";
+	margin: 0 auto;
+	padding: ;
 }
+
